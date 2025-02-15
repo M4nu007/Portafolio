@@ -144,9 +144,14 @@ hr {
     .presentacion {
         flex-direction: column-reverse;
         padding: 5%;
+        gap: 40px;
     }
 
     .presentacion__contenido{
         width: auto;
+    }
+
+    .presentacion__imagen{
+        width: 60%;
     }
 }
